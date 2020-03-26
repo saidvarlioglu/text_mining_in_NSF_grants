@@ -1,12 +1,6 @@
-# Prime_Numbers_Symmetrical_Distributions_Patterns with Python
+# Text Mining in NSF - CISE Grants
 
-The prime numbers hold many mysteries for mathematicians and computer engineers.
+It may help researchers to see how NSF grants distributes in the states, universities and how much money release to them. Also, word analyses demonstrates the usage of the common words in the grant applications in a timeline.
 
-I have used Ulman's spiral (https://en.wikipedia.org/wiki/Ulam_spiral) but 
-my spiral has a space in the core with a 10^2 square as seen in the excel file.
-
-By using the python codes that are given in this file, we can find big prime numbers with the symmetrical patterns.
-
-for contact: 
-saidvarlioglu@gmail.com;
-varlioms@mail.uc.edu; infosecspecialist.com
+Note that, the data is a sample data which is between 2016-2019, to get FULL size data 93 mb,
+click shared data via onedrive: https://mailuc-my.sharepoint.com/:x:/g/personal/varlioms_mail_uc_edu/EeP20yU2lQlGn3_wZf8L7SoBS2nNho7SGQO7581eaUidJg?e=xfgVKf
